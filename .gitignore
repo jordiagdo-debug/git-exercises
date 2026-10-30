@@ -1,6 +1,5 @@
 #Qué vamos a ignorar en este proyecto
-   # Comentario
-   *jar      
-   *.o      
-   *.exe        
-   libraries/         
+*.jar      
+*.o      
+*.exe        
+libraries/         
