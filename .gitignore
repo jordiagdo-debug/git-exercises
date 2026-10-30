@@ -1,5 +1,5 @@
 #Qué vamos a ignorar en este proyecto
    # Comentario
-   file.txt        
-   output.o              
-   libraries/         # toda la carpeta entera
+   *.txt        
+   *.o              
+   libraries/         
