@@ -1,5 +1,6 @@
 #Qué vamos a ignorar en este proyecto
    # Comentario
    *.txt        
-   *.o              
+   *.o      
+   *.exe        
    libraries/         
